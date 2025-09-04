@@ -1,5 +1,20 @@
 # Mental health detection using NLP
 
+# Project Overview
+
+Mental health issues are often expressed through language patterns in social media posts, chats, and blogs. By analyzing text, NLP can help identify early signs of distress.
+
+This project is an application of text classification, which is closely related to:
+
+Sentiment Analysis – identifying whether a text is positive, negative, or neutral.
+
+Emotion Detection – finding emotions like joy, anger, sadness, etc.
+
+Mental Health Detection – identifying psychological distress categories (focus of this project).
+
+👉 Here, the system takes raw text input, cleans it, extracts meaningful features, and predicts the mental health condition category, and also predict percentage of mental condition .
+
+
 A Natural Language Processing (NLP) project that detects mental health conditions from social media posts.
 The model classifies text into five categories:
 
